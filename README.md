@@ -1,2 +1,2 @@
-# nepula
-voice assistant
+nepula fully costumizable voice assistant
+
