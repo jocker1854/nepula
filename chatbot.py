@@ -214,7 +214,7 @@ if __name__ == '__main__':
     prepare = Prepare_Data(json_file, ignore_words)
     tags, all_words, patterns, X_train, y_train = prepare.prs1()
 
-    # for traaining uncomment
+    # for training uncomment
     #train = Train()
     #train.train()
     model_file = "data.pth"
